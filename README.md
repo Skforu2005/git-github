@@ -1,2 +1,2 @@
 # git-github
-for testing purpose
+This is for tutorial purpose.
